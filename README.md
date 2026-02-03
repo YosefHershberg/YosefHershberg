@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [CulinaryGPT](https://culinary-gpt.vercel.app/)
 
-- 🔭 I have also developed [CodeSplainer](https://code-explain-app.vercel.app/)
+- 💻 I have also developed [CodeSplainer](https://code-explain-app.vercel.app/)
 
-- 🤝 I have also devloeped [MessageSpace](https://github.com/Ti-Space/message-space-app)
+- 🤝 I have also developed [MessageSpace](https://github.com/Ti-Space/message-space-app)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-wheat-one-25.vercel.app/](https://portfolio-wheat-one-25.vercel.app/)
 
