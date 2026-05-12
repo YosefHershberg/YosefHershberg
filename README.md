@@ -51,10 +51,3 @@ I architect scalable, AI-driven enterprise applications that translate complex b
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YosefHershberg&show_icons=true&theme=tokyonight" alt="Yosef's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YosefHershberg&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosefHershberg&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
