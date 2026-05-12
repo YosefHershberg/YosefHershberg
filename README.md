@@ -18,15 +18,12 @@ I architect scalable, AI-driven enterprise applications that translate complex b
 
 - 👨‍💻 Portfolio: [**yosef-hershberg.vercel.app**](https://yosef-hershberg.vercel.app/)
 
-- 📫 Reach me at **berioo2000@gmail.com**
-
 - 🌐 Languages: **Hebrew** (Native) • **English** (Fluent)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yosef-hershberg-111975264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://github.com/YosefHershberg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-<a href="mailto:berioo2000@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
